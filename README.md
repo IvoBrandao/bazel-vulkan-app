@@ -12,7 +12,7 @@
     />
   <h3 align="center">Bazel CPP project template</h3>
   <p align="center">
-    An awesome cpp project template with bazel build system to jumpstart your projects!
+    An awesome cpp project template with bazel and vulkan build system to jumpstart projects!
   </p>
 </div>
 
